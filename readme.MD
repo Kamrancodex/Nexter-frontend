@@ -92,7 +92,7 @@ Nexter is a web project that showcases luxurious homes from around the world. It
 1. Clone the repository:
 
 ```
-git clone https://github.com/your-username/nexter.git
+git clone https://github.com/kamrancodex/nexter.git
 ```
 
 Navigate to the project directory:
